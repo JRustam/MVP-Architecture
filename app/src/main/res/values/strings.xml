@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Main</string>
+    <string name="question">What is the secret of comedy?</string>
+    <string name="response">Timing!</string>
+    <string name="title_top">Top fragment</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+</resources>
